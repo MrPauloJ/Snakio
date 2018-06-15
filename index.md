@@ -195,4 +195,4 @@ while (True):
 ```
 
 ### Suporte e Contato
-Através deste [Link](trosleihard.esy.es/dev) vocês podem entrar em contato direto com o desenvolvedor do projeto.
+Através deste [Link](http://trosleihard.esy.es/dev) vocês podem entrar em contato direto com o desenvolvedor do projeto.
