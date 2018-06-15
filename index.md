@@ -1,7 +1,7 @@
 ## Bem vindo
 
 ### Descrição
-´´´descricao
+```descricao
 Esse projeto tem como base a criação do "jogo da cobrinha" desenvolvido em python e sendo apresentado como TCC do curso de introdução a python pelo Centro de INformática da Universidade Federal de PErnambuco. 
 [Link](url) and ![Image](src)
 ```
