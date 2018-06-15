@@ -1,14 +1,10 @@
----
-title: jogo da cobrinha
-description: Pico is a stupidly simple, blazing fast, flat file CMS.
-social: trosleihard.esy.es/dev
----
 ## Bem vindo
 
 ### Descrição
 ```
 Esse projeto tem como base a criação do "jogo da cobrinha".
-Desenvolvido em python e sendo apresentado como TCC 
+Desenvolvido em python com o objetivo de ser executado através
+do prompt de comando do sistema e sendo apresentado como TCC 
 Para o curso de introdução a python pelo 
 Centro de INformática da Universidade Federal de PErnambuco. 
 ```
