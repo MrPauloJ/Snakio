@@ -8,7 +8,7 @@ Para o curso de introdução a python pelo
 Centro de INformática da Universidade Federal de PErnambuco. 
 ```
 ### Código Fonte
----
+```
 #Especificações do projeto
 #Autor: Paulo J.
 #Data: 24/01/2017
@@ -191,7 +191,7 @@ while (True):
     # Modificar a cobra e o mapa de acordo com a entrada
     # Utilizar W, A, S, D para movimento e E para sair
 
----
+```
 
 ### Suporte e Contato
 Através deste [Link](trosleihard.esy.es/dev) vocês podem entrar em contato direto com o desenvolvedor do projeto.
