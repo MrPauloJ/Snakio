@@ -1,5 +1,8 @@
-Title: jogo da cobrinha
-
+---
+title: jogo da cobrinha
+description: Pico is a stupidly simple, blazing fast, flat file CMS.
+social: trosleihard.esy.es/dev
+---
 ## Bem vindo
 
 ### Descrição
