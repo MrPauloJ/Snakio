@@ -1,4 +1,4 @@
-# Snake_Game
+# Snakio
 
 Projeto simples desenvolvido para avaliação de um minicurso de féria sobre python no Centro de Informática (CIN) da Universidade Federal de Pernambuco.
 
