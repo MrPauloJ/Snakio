@@ -1,6 +1,6 @@
 # Snakio
 
-Basic game developed as final project for a summer Python course at CIn - Informatics Center at UFPE.
+Basic game developed as final project for a python summer course at CIn - Informatics Center at UFPE.
 
 It runs in command prompt so it has a poor continuous interaction.
 
